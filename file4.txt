@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is some content to mess up with later
 New line in here in file4.txt
+||||||| 11b264f
+This is some content to mess up with later
+=======
+This is some woodoo stuff right here my man
+>>>>>>> newFeature
